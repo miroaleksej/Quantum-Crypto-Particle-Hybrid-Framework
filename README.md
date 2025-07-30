@@ -130,4 +130,4 @@ if asymptotic_analysis['r_squared'] > 0.95:
 ---
 
 *QCPH v1.0 - Revolutionizing particle physics through topological analysis of cryptographic signatures*  
-*© 2023 Quantum-Crypto-Particle Hybrid Framework Project. All rights reserved.*
+*© 2025 Quantum-Crypto-Particle Hybrid Framework Project. All rights reserved.*
