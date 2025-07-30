@@ -1,10 +1,3 @@
-# qcp.py
-"""
-Quantum-Crypto-Particle Hybrid Framework (QCPH v1.0)
-Автономная система для обнаружения новых физических явлений
-и генерации криптостойких ключей на основе топологического анализа
-данных коллайдера и криптографических моделей ECDSA.
-"""
 import numpy as np
 from ripser import ripser
 from scipy.fft import fft
