@@ -1,5 +1,7 @@
 # Quantum-Crypto-Particle Hybrid Framework (QCPH v1.0)
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/154c24c5-a179-48c2-b080-e5cb0d8907e0" />
+
 [![Python Version](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python)](https://python.org)
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fqcph-project%2Fqcph&label=Visitors&countColor=%23263759)
