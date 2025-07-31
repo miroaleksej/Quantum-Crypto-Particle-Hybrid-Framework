@@ -155,7 +155,6 @@ QCPH имеет следующие ограничения:
 ## Контактная информация
 
 Для вопросов и предложений:
-- Email: your.email@example.com
-- GitHub Issues: [https://github.com/yourusername/qcph/issues](https://github.com/yourusername/qcph/issues)
+- Email: miro-aleksej@yandex.ru
 
 ---
